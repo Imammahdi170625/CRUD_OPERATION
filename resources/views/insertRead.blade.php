@@ -18,13 +18,13 @@
             <div class="modal-body">
               <form action="">
                 <div class="mb-2">
-                    <input type="text" placeholder="Enter your product name" name="" id="" class="form-control">
+                    <input type="text" placeholder="Enter your product name" name="p_name" id="" class="form-control">
                 </div>
                 <div class="mb-2">
-                    <input type="text" placeholder="Enter your product price" class="form-control" name="" id="">
+                    <input type="text" placeholder="Enter your product price" class="form-control" name="p_price" id="">
                 </div>
                 <div class="mb-2">
-                    <input type="file" name="" id="" class="form-control">
+                    <input type="file" name="p_image" id="" class="form-control">
                 </div>
                 <button type="submit" class="btn btn-danger">Add product</button>
               </form>
